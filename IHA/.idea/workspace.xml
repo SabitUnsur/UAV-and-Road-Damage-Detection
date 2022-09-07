@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27e58060-f6c7-4f5a-87c2-451abd0c5dc8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../GoruntuIsleme1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoruntuIsleme1/.idea/GoruntuIsleme1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoruntuIsleme1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoruntuIsleme1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoruntuIsleme1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoruntuIsleme1/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoruntuIsleme1/Test1.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoruntuIsleme1/Test2.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoruntuIsleme1/Test3.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoruntuIsleme1/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
